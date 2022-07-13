@@ -5,9 +5,7 @@ keras-utils==1.0.13
 mediapipe==0.8.10.1
 numpy==1.21.6
 opencv-python==4.6.0.66
-Pillow==9.2.0
 requests==2.28.1
 streamlit==1.10.0
 streamlit-webrtc==0.42.0
-tensorboard==2.9.1
 tensorflow==2.9.1
